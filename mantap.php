@@ -1,7 +1,3 @@
 <?php
-<<<<<<< HEAD
-echo 'm';echo 'mama';
-=======
-echo 'mdfgsdfgsfgsama';echo 'mama';
->>>>>>> ibrahim
+echo 'mdfgsdfgsdgdfgdfgdfgdfgdfgdfgsama';echo 'mama';
 //nantap
