@@ -1,0 +1,13 @@
+<?php
+<<<<<<< HEAD
+<<<<<<< HEAD
+echo 'm';echo 'mama';
+=======
+echo 'mdfgsdfgsfgsama';echo 'mama';
+>>>>>>> ibrahim
+||||||| merged common ancestors
+echo 'mdfgsdfgsfgsama';echo 'mama';
+=======
+echo 'mdfgsdfgsdgdfgdfgdfgdfgdfgdfgsama';echo 'mama';
+>>>>>>> ibrahim
+//nantap
