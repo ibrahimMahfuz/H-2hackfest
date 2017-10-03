@@ -1,3 +1,3 @@
 <?php
-echo 'mdfgsdfgsfgsama';echo 'mama';
+echo 'mdfgsdfgsdgdfgdfgdfgdfgdfgdfgsama';echo 'mama';
 //nantap
